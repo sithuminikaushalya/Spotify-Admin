@@ -9,7 +9,7 @@ import ListAlbum from './pages/ListAlbum';
 import Sidebar from './components/Sidebar';
 import Navbar from './components/Navbar';
 
-export const url = 'https://spotify-backend-livid.vercel.app/'
+export const url = 'http://localhost:4000'
 
 const App = () => {
   return (
